@@ -1,0 +1,10 @@
+{
+  "name":"Fifteen-blogs",
+  "version": "1.0.0",
+  "author": "Fifteen",
+  "scripts": {
+    "dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:serve": "vitepress serve docs"
+  }
+}
